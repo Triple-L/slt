@@ -8,7 +8,7 @@ This code is based on [Joey NMT](https://github.com/joeynmt/joeynmt) but modifie
 * Download the feature files using the `data/download.sh` script.
 
 * [Optional] Create a conda or python virtual environment.
-
+  `Python3.7`
 * Install required packages using the `requirements.txt` file.
 
     `pip install -r requirements.txt`
